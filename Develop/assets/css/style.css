@@ -40,11 +40,12 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
+/* Changed links to yellow with hover */
+a { color: #ffffff; }
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; color: yellow;}
+a:active { text-decoration: none; }
 
 p {
     font-size: 16px;
@@ -59,7 +60,11 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*Added tag to add emphasis on keywords to increase SEO */
+em.seo, strong.seo {
+   font-weight: normal; 
+   font-style: normal;
+}
 .float-left {
     float: left;
     margin-right: 25px;
