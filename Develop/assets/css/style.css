@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Top header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,13 +16,21 @@ body {
     color: #ffffff;
 }
 
+/* Horiseon*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+/* SEO-in Horiseon*/
+.header .seo {
     color: #d9dcd6;
+}
+
+
+/*header bar navigation links*/
+nav {
+    display: block;
 }
 
 .header div {
@@ -40,13 +49,30 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-/* Changed links to yellow with hover */
-a { color: #ffffff; }
-a:link { text-decoration: none; }
-a:visited { text-decoration: none; }
-a:hover { text-decoration: none; color: yellow;}
-a:active { text-decoration: none; }
 
+/* Changed links to yellow with hover */
+a {
+    color: #ffffff;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: yellow;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+/*All paragraph text*/
 p {
     font-size: 16px;
 }
@@ -60,11 +86,14 @@ p {
     background-size: cover;
     background-position: center;
 }
+
 /*Added tag to add emphasis on keywords to increase SEO */
 em.seo, strong.seo {
-   font-weight: normal; 
-   font-style: normal;
+    font-weight: normal;
+    font-style: normal;
 }
+
+/*Image spacing */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,12 +104,14 @@ em.seo, strong.seo {
     margin-left: 25px;
 }
 
+/*Content spacing */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*Right hand sidebar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
