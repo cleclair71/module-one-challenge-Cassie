@@ -5,16 +5,16 @@
 My aim is to update the starter code so that it meets accessibility standards and so that the website is better optimized for search engines.
 
 In this starter code I added a variety of invisible features to help accessibility and SEO. Listed below are the features I added and the reason why I added them.
-    -**title:** Titles define the document and is important for users and search engines to understand the webpages content before clicking on the link.
-    -**tabindex:** I added a tabindex feature so that keyboard users could navigate the website with the tab button
-    -**aria-label/aria-labelled:** I added as a a label for accessibility and SEO
-    -**alt tags:** I added alt tags to images to improve accessibility by describing the images
-    -**role:** I added role to make the website more facilitative and accessible
-    -**id:** I added id to my HTML script so I could change it in CSS
-    -**abbr:** I added abbr on SEO for accessibility
-    -**strong:** I added strong to add keywords into my text for SEO
-    -**comments:** I added comments in both my CSS sheet and HTML file to help navigate the features I was changing and organize the changes I made
-    -**hover:** I used the pseudo-class hover to make the navigation links in the header more interactive
+* **title:** Titles define the document and is important for users and search engines to understand the webpages content before clicking on the link.
+* **tabindex:** I added a tabindex feature so that keyboard users could navigate the website with the tab button
+* **aria-label/aria-labelled:** I added as a a label for accessibility and SEO
+* **alt tags:** I added alt tags to images to improve accessibility by describing the images
+* **role:** I added role to make the website more facilitative and accessible
+* **id:** I added id to my HTML script so I could change it in CSS
+* **abbr:** I added abbr on SEO for accessibility
+* **strong:** I added strong to add keywords into my text for SEO
+* **comments:** I added comments in both my CSS sheet and HTML file to help navigate the features I was changing and organize the changes I made
+* **hover:** I used the pseudo-class hover to make the navigation links in the header more interactive
 
 ## Installation
 
