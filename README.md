@@ -23,12 +23,13 @@ Once clicking on the website link, you may navigate through the page with the ta
 ## Usage
 
 file:///C:/bootcamp/module-one-challenge-Cassie/Develop/index.html
+https://cleclair71.github.io/module-one-challenge-Cassie/ - deployed website
 
 Screenshots:
 Develop/assets/images/Cassie-Website-Capture-1.PNG
 Develop/assets/images/Cassie-Website-Capture-2.PNG
 Develop/assets/images/Cassie-Website-Capture-3.PNG
-Provide instructions and examples for use. Include screenshots as needed.
+
 
 ## Credits
 
