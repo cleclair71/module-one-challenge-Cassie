@@ -24,10 +24,10 @@ Once clicking on the website link, you may navigate through the page with the ta
 
 ## Usage
 
-https://github.com/cleclair71/module-one-challenge-Cassie - repository
-https://cleclair71.github.io/module-one-challenge-Cassie/ - deployed website
+* **repository:** https://github.com/cleclair71/module-one-challenge-Cassie 
+* **deployed url:** https://cleclair71.github.io/module-one-challenge-Cassie/ 
 
-Screenshots:
+### Screenshots:
 https://github.com/cleclair71/module-one-challenge-Cassie/blob/main/assets/Cassie-Website-Capture-1.PNG
 https://github.com/cleclair71/module-one-challenge-Cassie/blob/main/assets/Cassie-Website-Capture-2.PNG
 https://github.com/cleclair71/module-one-challenge-Cassie/blob/main/assets/Cassie-Website-Capture-3.PNG
