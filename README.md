@@ -15,6 +15,8 @@ In this starter code I added a variety of invisible features to help accessibili
 * **strong:** I added strong to add keywords into my text for SEO
 * **comments:** I added comments in both my CSS sheet and HTML file to help navigate the features I was changing and organize the changes I made
 * **hover:** I used the pseudo-class hover to make the navigation links in the header more interactive
+* **section:** I replaced certain div placements with section for accessibility
+* **aside:** I replaced the div tags on the right section for accessibility, allowing the browser to know what the main content is
 
 ## Installation
 
@@ -22,13 +24,13 @@ Once clicking on the website link, you may navigate through the page with the ta
 
 ## Usage
 
-file:///C:/bootcamp/module-one-challenge-Cassie/Develop/index.html
+https://github.com/cleclair71/module-one-challenge-Cassie - repository
 https://cleclair71.github.io/module-one-challenge-Cassie/ - deployed website
 
 Screenshots:
-Develop/assets/images/Cassie-Website-Capture-1.PNG
-Develop/assets/images/Cassie-Website-Capture-2.PNG
-Develop/assets/images/Cassie-Website-Capture-3.PNG
+https://github.com/cleclair71/module-one-challenge-Cassie/blob/main/assets/Cassie-Website-Capture-1.PNG
+https://github.com/cleclair71/module-one-challenge-Cassie/blob/main/assets/Cassie-Website-Capture-2.PNG
+https://github.com/cleclair71/module-one-challenge-Cassie/blob/main/assets/Cassie-Website-Capture-3.PNG
 
 
 ## Credits
